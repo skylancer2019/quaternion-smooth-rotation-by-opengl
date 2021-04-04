@@ -35,9 +35,15 @@ openGL不支持四元数，故而自己实现了旋转矩阵转化为四元数�
 
 ## 参考链接
 https://www.cnblogs.com/feiquan/p/8207407.html
+
 https://blog.csdn.net/m0_37876745/article/details/78147046
+
 Rotating Objects using Quaternions. Nick Bobic
+
 https://blog.csdn.net/freehawkzk/article/details/81150764
+
 https://blog.csdn.net/qweewqpkn/article/details/46332331
+
 https://blog.csdn.net/shimazhuge/article/details/25135009
+
 https://blog.csdn.net/cjneo/article/details/50455973
